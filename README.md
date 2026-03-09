@@ -30,7 +30,7 @@ Analista de Sistemas con experiencia en desarrollo de aplicaciones web y sistema
 - Implementación de autenticación con roles (chofer/administrador).
 - Auto-guardado de planillas y panel de revisión para administradores.
 - Desplegado en Vercel: https://planill-app.vercel.app/
-- [Repositorio](https://github.com/joaquinleo/remiseria-app)
+- [Repositorio](https://github.com/joaquinleo/planillApp)
 
 ### 2. Sistema de control médico
 - **Stack:** React, Node, MongoDB
