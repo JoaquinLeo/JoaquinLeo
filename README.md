@@ -1,6 +1,6 @@
 # Joaquín Leonel Roba 👋
 
-Desarrollador Full Stack orientado a backend y bases de datos. Tengo experiencia en proyectos web con Node.js, Laravel, React y herramientas modernas.
+Desarrollador Full Stack especializado en backend y bases de datos, con experiencia construyendo aplicaciones web y sistemas de gestión usando Node.js, Laravel, React y SQL.
 
 📍 San Nicolás de los Arroyos, Buenos Aires, Argentina
 
