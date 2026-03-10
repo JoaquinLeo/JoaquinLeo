@@ -34,20 +34,18 @@ Analista de Sistemas con experiencia en desarrollo de aplicaciones web y sistema
 
 ### 2. Sistema de control médico
 - **Stack:** React, Node, MongoDB
-- Planillas de diagnóstico, gestión de enfermedades y tratamientos.
-- Historial médico del paciente.
-
+- App web papa creación de planillas de diagnóstico, gestión de enfermedades y tratamientos.
+- Registro y login de usuarios contraseñas encriptadas con bcrypt.
+- Implementación de autenticación con roles (invitado/administrador/médico).
+- Gestión de diagnósticos de pacientes: creación, edición de estado, cierre y comentarios históricos.
+- Generación de PDF de resumen de paciente con jsPDF/html2canvas.
+- Código QR asociado a cada paciente para acceso móvil.
+- [Repositorio](https://github.com/joaquinleo/RegistroMedico)
+  
 ### 3. Sistema de generación de presupuestos
 - **Stack:** Laravel, MySQL
 - Registro de materiales, cálculo de precio en pesos/dólares.
 - PDF de presupuestos y reuso de presupuestos anteriores.
-
-### 4. Sistema de control de negocio
-- **Stack:** C# .NET, SQL Server
-- Registro de productos, control de stock, clientes y usuarios.
-- Reporte de ventas y compras.
-
-(Ver más proyectos en mi perfil de GitHub)
 
 ---
 
