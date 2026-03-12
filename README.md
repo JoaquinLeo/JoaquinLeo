@@ -62,7 +62,7 @@ Analista de Sistemas con experiencia en desarrollo de aplicaciones web y sistema
 - Generación de PDF de resumen de paciente con jsPDF/html2canvas.
 - Código QR asociado a cada paciente para acceso móvil.
 
-[![Repositorio](https://img.shields.io/badge/Código-GitHub-black)](https://github.com/joaquinleo/RegistroMedico)
+- [![Repo](https://img.shields.io/badge/Repositorio-GitHub-black)](https://github.com/joaquinleo/RegistroMedico)
 
 ### 📑 Sistema de generación de presupuestos
 
@@ -81,7 +81,7 @@ Analista de Sistemas con experiencia en desarrollo de aplicaciones web y sistema
 - Almacenamiento de presupuestos con datos del cliente (nombre, teléfono, domicilio).
 - Exportación de cada presupuesto a **PDF** mediante `barryvdh/laravel-dompdf`.
 
-[![Repositorio](https://img.shields.io/badge/Código-GitHub-black)](https://github.com/joaquinleo/generador-presupuesto)
+- [![Repo](https://img.shields.io/badge/Repositorio-GitHub-black)](https://github.com/joaquinleo/generador-presupuesto)
 
 ---
 
